@@ -3,7 +3,7 @@
 	<parent>
 		<groupId>br.com.arsmachina</groupId>
 		<artifactId>parent</artifactId>
-		<version>1.2.12</version>
+		<version>1.2.13</version>
 		<relativePath>../parent</relativePath>
 	</parent>
 	<artifactId>tapestry-rss</artifactId>
@@ -43,7 +43,6 @@
 		<dependency>
 			<groupId>br.com.arsmachina</groupId>
 			<artifactId>tapestry-url-rewriter</artifactId>
-			<scope>2.0.0</scope>
 		</dependency>
 	</dependencies>
 	<build>
