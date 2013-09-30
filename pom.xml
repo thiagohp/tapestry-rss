@@ -43,7 +43,7 @@
 		<dependency>
 			<groupId>br.com.arsmachina</groupId>
 			<artifactId>tapestry-url-rewriter</artifactId>
-			<scope>provided</scope>
+			<scope>2.0.0</scope>
 		</dependency>
 	</dependencies>
 	<build>
