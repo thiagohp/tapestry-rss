@@ -7,7 +7,7 @@
 		<relativePath>../parent</relativePath>
 	</parent>
 	<artifactId>tapestry-rss</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>tapestry-rss</name>
 	<description>Package that implements an RSS 2.0 feed for Apache Tapestry 5.</description>
 	<organization>
