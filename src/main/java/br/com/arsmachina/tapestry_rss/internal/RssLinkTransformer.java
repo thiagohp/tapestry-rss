@@ -26,9 +26,9 @@
 // limitations under the License.
 package br.com.arsmachina.tapestry_rss.internal;
 
-import org.apache.tapestry5.Link;
+import org.apache.tapestry5.http.Link;
+import org.apache.tapestry5.http.services.Request;
 import org.apache.tapestry5.services.PageRenderRequestParameters;
-import org.apache.tapestry5.services.Request;
 import org.apache.tapestry5.services.linktransform.PageRenderLinkTransformer;
 
 import br.com.arsmachina.tapestry_rss.RssConstants;

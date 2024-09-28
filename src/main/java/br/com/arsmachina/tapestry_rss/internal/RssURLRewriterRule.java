@@ -1,4 +1,4 @@
-// Copyright 2013 Thiago H. de Paula Figueiredo
+// Copyright 2013, 2024 Thiago H. de Paula Figueiredo
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -26,7 +26,7 @@
 // limitations under the License.
 package br.com.arsmachina.tapestry_rss.internal;
 
-import org.apache.tapestry5.services.Request;
+import org.apache.tapestry5.http.services.Request;
 import org.apache.tapestry5.urlrewriter.SimpleRequestWrapper;
 import org.apache.tapestry5.urlrewriter.URLRewriterRule;
 
